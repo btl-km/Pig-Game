@@ -13,3 +13,6 @@ The first player to reach 100 points on GLOBAL score wins the game.
 
 Also, players can set the winning score, so that they can change the predefined score of 100.
 
+![piggame](https://user-images.githubusercontent.com/24896690/31675250-157439d2-b332-11e7-9789-6f7e2f36efa2.png)
+
+
