@@ -4,7 +4,7 @@
  This is one of the projects thaught in a Udemy course:
 https://www.udemy.com/the-complete-javascript-course/learn/v4/overview
  
-A kind of dice game has 2 players, playing in rounds.
+A type of dice game with 2 players, playing in rounds.
 
 In each turn, a player rolls a dice as many times as he whishes. Each result gets added to his ROUND score.
 
